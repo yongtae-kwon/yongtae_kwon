@@ -6,7 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I am a 2nd-year PhD student in Public Policy at the Lyndon B. Johnson School of Public Affairs, University of Texas at Austin. My primary research interest is the role of monitoring and enforcement in policy implementation. I am also interested in economic analysis of regulation, mainly at the field of environental and energy economics. My fields are. In my most recent project, I 
+Welcome! I am a 2nd-year PhD student in Public Policy at the Lyndon B. Johnson School of Public Affairs, University of Texas at Austin. My primary research interest is the role of monitoring and enforcement in policy implementation. I am also interested in economic analysis of regulation, mainly at the field of environental and energy economics. My fields are. 
+
+In my most recent project, I 
 
 Prior to UT Austin, I graduated with a M.P.P. and B.A. degree, both from Seoul National University. You can reach me at yongtae [dot] kwon [at] utexas [dot] edu. In my free time, I enjoy practicing vinyasa yoga🧘 and playing baseball⚾(Go Yanks!)
 
